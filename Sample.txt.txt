@@ -3,3 +3,4 @@ This line is added in master branch
 This line is added in feature_1 branch
 This is second line added in feature_1 branch
 This line is added into feature_2
+This line is added in master after feature_2 branch is created
