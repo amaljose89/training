@@ -3,3 +3,4 @@ This line is added in master branch
 second line added to master
 first line added to feature_3
 third line added to master
+second line added to feature_3
