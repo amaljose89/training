@@ -6,3 +6,4 @@ third line added to master
 second line added to feature_3
 fourth line added to master
 third line added to feature_3
+fourth line added to feature_3
